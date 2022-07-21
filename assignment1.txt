@@ -1,0 +1,23 @@
+GIT PULL -> Pulling is a automated version of git fetch.Its download a branch from a remote repostitory, then immedietly merges it into thecurrent braches.This is Git evuivalent of svn 
+updates.
+
+GIT PUSH ->Pushing is a opposite of fetching.it lets you move a local branch to another repository which serve as a convenient way to puublish contribution. This is like svn commits.But it 
+sends a series of commits instead of a single Changeset. 
+
+GIT LOG -> Lets you explore the previous revision of a Project.its provides several formatting option for displaying commited snapshots.
+
+GIT STATUS -> Display the work of working directory and the staged snapshot.You will want to run this in conjuction with git add and git commit to see exactly whats being included in the 
+next snapshots.
+
+GIT COMMIT -> Take the stage snapshots and commit it to the project history.Combined with git add, this define the basic workflow for all Gits users.
+
+GIT INIT -> Inisializes a new git respiotory. If you want to place a project under revision control.This is first command youneed to learn.
+
+GIT CLONE ->Creates a copy of an exiting Git repository.cloning is most common way for developers to obtain a working copy of a central repository.
+
+GIT CHEAKOUT -> In addition to cheaking out old commits and old file revision,get chaekout is also the means to nevigate existing branches combined with the basic git commands,it's a way to
+ work on a particular line of development.
+
+MKDIR -> mkdir command is a linux allows the all user to create directories.this command can create multiple directories at once as well as set the permision for the direectories.
+
+IS -A -> Moreover,to get the hidden files,"-a" flag is used:
